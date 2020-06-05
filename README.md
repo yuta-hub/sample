@@ -1,5 +1,5 @@
-模写の練習
-サイトの概要 Progateのサイトをお手本に模写をしました。 
-プレビューURL https://progate.github.io/html-dev/
-使用言語
-HTML,CSS
+模写の練習<br>
+サイトの概要 Progateのサイトをお手本に模写をしました。<br>
+プレビューURL https://progate.github.io/html-dev/ <br>
+使用言語<br>
+HTML,CSS <br>
