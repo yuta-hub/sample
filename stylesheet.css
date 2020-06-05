@@ -56,7 +56,7 @@ html, body{
 
 /* top */
 .top-wrapper{
- background-image: url("img/background.png");
+ background-image: url("https://github.com/yuta-hub/sample-progate/blob/master/background.png?raw=true");
  background-size: cover;
  padding: 180px 15px 100px 15px;
  height: 400px;
