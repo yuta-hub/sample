@@ -1,0 +1,75 @@
+@media all and (max-width: 1000px) {
+  footer {
+      text-align: center;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .introduction {
+    height: 900px;
+  }
+  
+  .lessons {
+    flex-wrap: wrap;
+  }
+
+  .introduction h1 {
+    padding-bottom: 0;
+  }
+
+  .lesson {
+    margin: 100px auto 20px;
+  }
+}
+
+@media all and (max-width: 750px) {
+  .top-wrapper h1 {
+    font-size: 32px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .nav-bar {
+    display: flex;
+    justify-content: space-between;
+  }
+  .right-bar {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+    margin-right: 1%;
+  }
+
+  .container {
+    text-align: left;
+  }
+
+  .container h1 {
+    font-size: 24px;
+
+  }
+
+  .container p {
+    font-size: 14px;
+  }
+
+  .top-wrapper .btn {
+    width: 100%;
+    padding: 8px 2px;
+  }
+
+  .twitter {
+    margin-top: 10px;
+  }
+
+  .introduction {
+    height: 1500px;
+  }
+  
+} 
